@@ -1,5 +1,5 @@
 # TCF3 targets In DLBCL
-classifier for classifying DLBCL cases into 2 subtypes based on the TCF3 target genes
+How to classifying DLBCL cases into 2 subtypes based on the TCF3 target genes
 
 A) If you are using MATLAB, follow the script_runTCF3classifier.mlx life script
 

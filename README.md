@@ -29,7 +29,7 @@ B) If you are NOT using MATLAB, you would need to re-build the classifier using 
     d) min-max standardize the log 2 transformed data (as in step 1c)
     
     e) visualize the distribution of the selected genes using box plots and compare it to the distribution of the Nanostring genes (step 1d).
-      The better the match to our Nanostring data, the more optimal the classification will be. 
+      The better the match to our Nanostring data, the more optimal the classification will be. <b> DO NOT </b> manipulate the data by adjusting median expression of individual genes. Instead look into changing your data preprocessing, including alignment, and normalization methods. 
     
     f) double check that the order of the genes in the two plots matches.
     

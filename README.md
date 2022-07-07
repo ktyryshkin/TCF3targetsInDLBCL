@@ -7,7 +7,7 @@ A) If you are using MATLAB, follow the script_runTCF3classifier.mlx life script
 B) If you are NOT using MATLAB, you would need to re-build the classifier using our Nanostring dataset as follows
 1. Train the classifier on the Nanostring KGH dataset
 
-    a) load the Nanostring KGH data 
+    a) load the Nanostring KGH data. The data is provided in the NanosctringKGHdataset.xlsx, the last row is the class labels: 1 = groupA, 0 = group B. 
   
     b) log2 transform the data
   
